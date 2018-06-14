@@ -1,0 +1,28 @@
+{
+    "workbench.statusBar.visible": true,
+    "editor.fontSize": 13,
+    "workbench.colorTheme": "Monokai",
+    "explorer.openEditors.visible": 1,
+    "emmet.includeLanguages": {
+        "vue-html": "html",
+        "vue": "html"
+    },
+    "emmet.syntaxProfiles": {
+        "vue-html": "html",
+        "vue": "html"
+    },
+    "workbench.startupEditor": "welcomePage",
+    "terminal.external.osxExec": "iTerm.app",
+    "files.associations": {
+        "*.san": "vue",
+        "*.tpl": "html"
+    },
+    "window.zoomLevel": 0,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "python.pythonPath": "/usr/local/bin/python3",
+    "python.disablePromptForFeatures": [
+        "pylint"
+    ],
+    "explorer.confirmDragAndDrop": false
+}
